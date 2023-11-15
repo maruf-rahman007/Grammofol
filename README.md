@@ -1,2 +1,2 @@
 # Grammofol
-OOP Course Assignment
+Hey there! 🍎 Welcome to our GitHub hub where we're cooking up something sweet – a website all about our local fruity treasures! Think of it as a digital farmers' market for the juiciest, most delicious picks from our community. With every update, we're sowing the seeds for a fresher, tastier way to buy and sell local fruits. Come join the fun as we blend tech with the goodness of homegrown produce. Let's build a berrylicious online space that celebrates our region's flavors and supports our awesome growers!
